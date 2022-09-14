@@ -1,0 +1,15 @@
+C:\Projetos\EstacionamentoDIo\obj\Debug\net6.0\EstacionamentoDIo.csproj.AssemblyReference.cache
+C:\Projetos\EstacionamentoDIo\obj\Debug\net6.0\EstacionamentoDIo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\EstacionamentoDIo\obj\Debug\net6.0\EstacionamentoDIo.AssemblyInfoInputs.cache
+C:\Projetos\EstacionamentoDIo\obj\Debug\net6.0\EstacionamentoDIo.AssemblyInfo.cs
+C:\Projetos\EstacionamentoDIo\obj\Debug\net6.0\EstacionamentoDIo.csproj.CoreCompileInputs.cache
+C:\Projetos\EstacionamentoDIo\bin\Debug\net6.0\EstacionamentoDIo.exe
+C:\Projetos\EstacionamentoDIo\bin\Debug\net6.0\EstacionamentoDIo.deps.json
+C:\Projetos\EstacionamentoDIo\bin\Debug\net6.0\EstacionamentoDIo.runtimeconfig.json
+C:\Projetos\EstacionamentoDIo\bin\Debug\net6.0\EstacionamentoDIo.dll
+C:\Projetos\EstacionamentoDIo\bin\Debug\net6.0\EstacionamentoDIo.pdb
+C:\Projetos\EstacionamentoDIo\obj\Debug\net6.0\EstacionamentoDIo.dll
+C:\Projetos\EstacionamentoDIo\obj\Debug\net6.0\refint\EstacionamentoDIo.dll
+C:\Projetos\EstacionamentoDIo\obj\Debug\net6.0\EstacionamentoDIo.pdb
+C:\Projetos\EstacionamentoDIo\obj\Debug\net6.0\EstacionamentoDIo.genruntimeconfig.cache
+C:\Projetos\EstacionamentoDIo\obj\Debug\net6.0\ref\EstacionamentoDIo.dll
